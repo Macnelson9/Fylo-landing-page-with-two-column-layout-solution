@@ -159,7 +159,7 @@ main {
 }
 
 .overlay {
-  background: url(./images/bg-curve-mobile.svg);
+  background: url(bg-curve-mobile.svg);
   background-repeat: no-repeat;
   position: absolute;
   height: 100%;
@@ -421,7 +421,7 @@ footer {
   }
 
   .overlay {
-    background: url(./images/bg-curve-desktop.svg);
+    background: url(bg-curve-desktop.svg);
     width: 100%;
     left: 0px;
     top: -80px;
